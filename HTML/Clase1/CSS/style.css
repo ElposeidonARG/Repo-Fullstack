@@ -1,0 +1,26 @@
+/*Selector de tipo*/
+p {
+    color: brown;
+    font-size: 20px;
+    background-color:#386f54;;
+}
+
+/*Selector de Clase*/
+.colorVerde{
+    color:green;
+}
+
+.colorRojo{
+    color: red;
+    font-size: 18px;;
+
+}
+
+#especial{
+    color: blue;
+    font-size: 50px;
+}
+
+body {
+    background-color: #7289da;
+}
